@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-O
+CFLAGS=-O -g
 
 all:	simplec
 
